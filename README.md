@@ -1,6 +1,8 @@
 # learning-to-mod-minecraft
 My first fabric mod I'd ever made. Modification of Minecraft 1.19.
 
+**Requires [Fabric API](https://modrinth.com/mod/fabric-api/version/0.58.0+1.19)**
+
 ---
 
 Screenshot of my added features:
