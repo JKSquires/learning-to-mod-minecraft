@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_sign",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "X": {
+      "item": "minecraft:flint"
+    },
+    "B": {
+      "item": "minecraft:dragon_breath"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "#B#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "item": "learning:lighter"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "learning",
+  "version": "${version}",
+
+  "name": "Learning Mod",
+  "description": "I'm learning, I hope.",
+  "authors": [
+    "Jason Squires"
+  ],
+
+  "license": "CC0-1.0",
+  "icon": "assets/learning/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.learning.Learning"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
